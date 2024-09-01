@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a9b4c05.css",
-    "main.js": "/static/js/main.6f1b20ea.js",
+    "main.css": "/static/css/main.5affff0c.css",
+    "main.js": "/static/js/main.d9979700.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/ctf-img5.png": "/static/media/ctf-img5.5a02ade66c8053aed904.png",
     "static/media/header-img.svg": "/static/media/header-img.b241c2d439c2e64fc886f2c289d7b1c0.svg",
-    "static/media/CV.pdf": "/static/media/CV.0c2ff619ca8dc59b7a7d.pdf",
+    "static/media/CV_fr.pdf": "/static/media/CV_fr.1d4314c7313585c51679.pdf",
+    "static/media/CV_de.pdf": "/static/media/CV_de.487e5feced6fcfcfc9f3.pdf",
+    "static/media/CV_en.pdf": "/static/media/CV_en.0f038ca0c3b32e3283cc.pdf",
     "static/media/project-img2.png": "/static/media/project-img2.35b31bda8ea0dce711a2.png",
+    "static/media/ctf-img4.png": "/static/media/ctf-img4.9db6ddafc2b97c769c92.png",
     "static/media/project-img1.png": "/static/media/project-img1.9080f13fcdfc38a2f6c8.png",
     "static/media/wordpress.svg": "/static/media/wordpress.da727e5ee501bb32d977a4242f8bdd7d.svg",
     "static/media/banner-bg.png": "/static/media/banner-bg.af5c87f09b884b8b8f35.png",
     "static/media/education-img4.png": "/static/media/education-img4.d1bd01441bfcc9ddeece.png",
     "static/media/ctf-img2.png": "/static/media/ctf-img2.ecb8f02d01aaa3cf5f73.png",
     "static/media/cassandra.svg": "/static/media/cassandra.2bcd41f3ba84de9dd59e086163228f1e.svg",
+    "static/media/ctf-img6.png": "/static/media/ctf-img6.bdd8ca0b5bf64bad211e.png",
     "static/media/hobby3.svg": "/static/media/hobby3.628fc27bf51b4e96e6dfbb6216766579.svg",
     "static/media/ctf_bckgrd.png": "/static/media/ctf_bckgrd.a5ef0ec50707c6a15f0f.png",
     "static/media/education-img3.png": "/static/media/education-img3.2720c73da1eecddef1c6.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.e6184333a564c37c133a.png",
     "static/media/education-img1.png": "/static/media/education-img1.35e0df78cd646804b96f.png",
+    "static/media/ctf-img3.png": "/static/media/ctf-img3.8561029f7ad9148c1828.png",
     "static/media/education-img2.png": "/static/media/education-img2.3c712682d8873a4750b8.png",
     "static/media/footer-bg.png": "/static/media/footer-bg.7e9bd5c532f40d524e96.png",
     "static/media/education-img5.png": "/static/media/education-img5.adb187148b46c9cc690d.png",
@@ -60,12 +66,12 @@
     "static/media/windows.svg": "/static/media/windows.5000d06c66ea2a4c6a89796cef70d6b9.svg",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/index.html",
-    "main.9a9b4c05.css.map": "/static/css/main.9a9b4c05.css.map",
-    "main.6f1b20ea.js.map": "/static/js/main.6f1b20ea.js.map",
+    "main.5affff0c.css.map": "/static/css/main.5affff0c.css.map",
+    "main.d9979700.js.map": "/static/js/main.d9979700.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a9b4c05.css",
-    "static/js/main.6f1b20ea.js"
+    "static/css/main.5affff0c.css",
+    "static/js/main.d9979700.js"
   ]
 }
